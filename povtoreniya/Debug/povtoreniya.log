@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Бавар\source\repos\povtoreniya\Source.cpp(41,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Бавар\source\repos\povtoreniya\Source.cpp(58,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Бавар\source\repos\povtoreniya\Source.cpp(35,6): warning C4101: l: неиспользованная локальная переменная
+  povtoreniya.vcxproj -> C:\Users\Бавар\source\repos\povtoreniya\Debug\povtoreniya.exe
